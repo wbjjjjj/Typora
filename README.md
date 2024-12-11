@@ -1,2 +1,2 @@
-# Typora-Image
-Typora image
+# Typora
+Typora image and file
